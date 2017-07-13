@@ -1,0 +1,13 @@
+span{
+    font-size: 50px;
+    color: red
+}
+.sombreado{
+    background-color: beige;
+}
+table{
+    border: grey;
+}
+caption{
+    text-align: left;
+}
