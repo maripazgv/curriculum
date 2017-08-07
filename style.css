@@ -14,7 +14,7 @@ body{
     font-size: 20px;
 }
 .container{
-    background-color: rgba(244, 217, 182, 0.76);
+    background-color: rgba(186, 172, 152, 0.9);
 }
 span{
     font-size: 50px;
@@ -44,5 +44,4 @@ td{
     
     border-radius: 35%;
    
-    
 }
